@@ -4,7 +4,7 @@
 
 # Code giao diện theo mẫu https://demo4.datvang.top/#
 
-# Không dùng framework css
+# Không dùng Bootstrap css - nếu cty cần code chay vẫn có thể code nhanh hơn
 
 # Có dùng jquery xử lý input search
 

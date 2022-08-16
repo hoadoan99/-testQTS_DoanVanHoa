@@ -9,4 +9,19 @@
     --color-btn-details: #07824c;
     --border-btn-details: rgba(0, 0, 0, .05);
     --color-btn-menu: #07824c;
+    --bg-navbarleft-mobile: #f4f3f3;
+}
+
+.container {
+    width: 100%;
+    display: block;
+    padding: 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -4px;
+    margin-right: -4px;
+    width: 100%;
 }
