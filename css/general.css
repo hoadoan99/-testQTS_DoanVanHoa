@@ -1,0 +1,12 @@
+:root {
+    --text-nav-color: rgba(255, 255, 255, .8);
+    --bg-color-item: #16a667;
+    --border-color-logo: #ddd;
+    --border-color-item: #ccc;
+    --color-item: #16a667;
+    --box-shadow: inset 1px 1px 0 0 rgb(255 255 255 / 10%),
+        inset 0 2em 15px 0 rgb(255 255 255 / 20%);
+    --color-btn-details: #07824c;
+    --border-btn-details: rgba(0, 0, 0, .05);
+    --color-btn-menu: #07824c;
+}
